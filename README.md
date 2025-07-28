@@ -31,25 +31,6 @@ A simple yet secure web application that allows users to **upload and download f
    ```bash
    git clone https://github.com/Dhanush10122003/FUTURE_CS_03.git
    cd FUTURE_CS_03
-Install dependencies:
-
-bash
-Copy
-Edit
-pip install -r requirements.txt
-Run the Flask app:
-
-bash
-Copy
-Edit
-python app.py
-Open your browser and go to:
-
-cpp
-Copy
-Edit
-http://127.0.0.1:5000
-
 ---
 
 🖼️ Screenshots
